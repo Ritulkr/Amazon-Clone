@@ -1,6 +1,8 @@
+
+
 # Amazon Clone
 
-This repository contains a clone of the Amazon website, created for practicing web development skills. The project focuses on the front-end development using HTML, CSS, and JavaScript.
+This repository contains a clone of the Amazon website, created for practicing web development skills. The project focuses on front-end development using HTML, CSS, and JavaScript.
 
 ## Table of Contents
 
@@ -37,7 +39,7 @@ To set up the project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/amazon-clone.git
+   git clone https://github.com/Ritulkr/Amazon-Clone.git
    ```
 
 2. Navigate to the project directory:
@@ -83,11 +85,11 @@ amazon-clone/
 
 Contributions are welcome! If you have any suggestions or improvements, please create a pull request or open an issue.
 
-1. Fork the repository
-2. Create a new branch: `git checkout -b feature-branch`
-3. Make your changes and commit them: `git commit -m 'Add new feature'`
-4. Push to the branch: `git push origin feature-branch`
-5. Create a pull request
+1. Fork the repository.
+2. Create a new branch: `git checkout -b feature-branch`.
+3. Make your changes and commit them: `git commit -m 'Add new feature'`.
+4. Push to the branch: `git push origin feature-branch`.
+5. Create a pull request.
 
 ## License
 
@@ -97,8 +99,7 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 For any questions or feedback, please contact:
 
-- **Ritul Kumar**: kumarritul089@gmail.com
+- **Ritul Kumar**: [kumarritul089@gmail.com](mailto:kumarritul089@gmail.com)
 - **GitHub**: [Ritul Kumar](https://github.com/Ritulkr/)
 
 ---
-
