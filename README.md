@@ -1,5 +1,3 @@
-
-
 # Amazon Clone
 
 This repository contains a clone of the Amazon website, created for practicing web development skills. The project focuses on front-end development using HTML, CSS, and JavaScript.
